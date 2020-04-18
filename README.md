@@ -1,2 +1,2 @@
 # algorithm
-This sections is just for study and review.
+This section is just for study and review.
